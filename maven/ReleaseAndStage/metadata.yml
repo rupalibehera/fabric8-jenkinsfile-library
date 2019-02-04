@@ -7,5 +7,4 @@ stages:
   - name: Build Image
     description: creates a new version and then builds the image
   - name: Rollout to Stage
-    description: stages the new version into the Stage environment 
- 
+    description: stages the new version into the Stage environment
